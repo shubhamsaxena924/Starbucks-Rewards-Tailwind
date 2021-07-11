@@ -43,6 +43,7 @@ module.exports = {
         25: "6.25rem",
         mobile: "133.33%",
         star: "56.25%",
+        "md-card": "5vw",
       },
     },
   },
