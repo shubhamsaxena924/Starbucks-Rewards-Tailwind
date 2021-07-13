@@ -1,5 +1,4 @@
 module.exports = {
-  purge: ["./index.html", "./src/**/*.{vue,js,ts,jsx,tsx}"],
   darkMode: false, // or 'media' or 'class'
   theme: {
     maxWidth: {
@@ -34,8 +33,7 @@ module.exports = {
     },
     extend: {
       backgroundImage: (theme) => ({
-        star:
-          "url('https://www.starbucks.com/weblx/images/rewards/hero/xl-hero-desktop_2021.png')",
+        star: "url('https://www.starbucks.com/weblx/images/rewards/hero/xl-hero-desktop_2021.png')",
         mobile_star:
           "url('https://www.starbucks.com/weblx/images/rewards/hero/hero-mobile_2021.jpg')",
       }),
