@@ -7,7 +7,7 @@ module.exports = {
       54: "33.75rem",
       37: "23.4735rem",
     },
-    maxHeigh: {
+    maxHeight: {
       81: "50.625rem",
     },
     minWidth: {
