@@ -1,4 +1,5 @@
 module.exports = {
+  purge: ["./assets/**/*.{js,css}", "./index.html"],
   darkMode: false, // or 'media' or 'class'
   theme: {
     maxWidth: {
